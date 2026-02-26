@@ -18,5 +18,5 @@ b = int(input("valor B: "))
 
 x = a+b
 
-print(x)
+print(f"{x}\n")
 
