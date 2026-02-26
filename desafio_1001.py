@@ -12,3 +12,11 @@ você receberá "Presentation Error".
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1001
 
 # Escreva sua solução abaixo
+a = int(input("valor A: "))
+
+b = int(input("valor B: "))
+
+x = a+b
+
+print(x)
+
